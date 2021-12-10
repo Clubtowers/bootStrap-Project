@@ -15,6 +15,26 @@ function clickButton()
     {
         document.getElementById("buttonTO").innerText = "This button has no purpose";
     }
+    if(counter == 5)
+    {
+        document.getElementById("buttonTO").innerText = "Warning #1";
+    }
+    if(counter == 6)
+    {
+        document.getElementById("buttonTO").innerText = "Warning #2";
+    }
+    if(counter == 7)
+    {
+        document.getElementById("buttonTO").innerText = "Warning #3";
+    }
+    if(counter == 8)
+    {
+        document.getElementById("buttonTO").innerText = "Alright enough is enough stop pressing it";
+    }
+    if(counter == 9)
+    {
+        document.getElementById("buttonTO").innerText = "I am being serious";
+    }
     if(counter == 10)
     {
         document.getElementById("buttonTO").innerText = "If you press this one more time you are gonna be kicked off this website";
