@@ -44,3 +44,27 @@ function clickButton()
         window.close()
     }
 }
+function clickButton1()
+{
+  document.getElementById("box").innerText = "Make sure to have your best work in the beginning of your portfolio. First impressions are everything.";
+}
+function clickButton2()
+{
+  document.getElementById("box").innerText = "Make sure to include alot of variety in your work";
+}
+function clickButton3()
+{
+  document.getElementById("box").innerText = "Keep the portfolio up to date. Don't include work that you have done god knows how long ago";
+}
+function clickButton4()
+{
+  document.getElementById("box").innerText = "Be confident in your work. If you want to add something add it. Don't be scared!";
+}
+function clickButton5()
+{
+  document.getElementById("box").innerText = "Make sure your work is to the point and easily acessible in the platform you are using to create the portfolio.";
+}
+function clickButton6()
+{
+  document.getElementById("box").innerText = "Make sure the portfolio has style! Make it appealing to the eye";
+}
