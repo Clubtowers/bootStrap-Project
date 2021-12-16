@@ -9,14 +9,33 @@
     background: rgb(248, 243, 199);
     height:500px;
     width: 500px;
-    margin-top: 5px;
-  
-
 }
+
 #box{
   font-family: fantasy;
   font-size: x-large;
   position: relative; top: 50px;
+}
 
-
+#one{
+  margin-left: 50px;
+}
+#two{
+  margin-left: 50px;
+  }
+#three{
+  margin: auto;
+  margin-left: 50px;
+}
+#four{
+  margin: auto;
+  margin-left: 50px;
+}
+#five{
+  margin: auto;
+  margin-left: 50px;
+}
+#six{
+  margin: auto;
+  margin-left: 50px;
 }
