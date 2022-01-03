@@ -9,35 +9,17 @@ body{
 
 .container{
     background: rgb(248, 243, 199);
-    height:500px;
-    width: 500px;
+    
 }
 
 #box{
-  font-family: fantasy;
+  font-family: 'Licorice', cursive;
   font-size: x-large;
   position: relative; top: 50px;
 }
 
-#one{
-  margin-left: 715px;
-}
-#two{
-  margin-left: 50px;
-  }
-#three{
-  margin: auto;
-  margin-left: 50px;
-}
-#four{
-  margin: auto;
-  margin-left: 50px;
-}
-#five{
-  margin: auto;
-  margin-left: 50px;
-}
-#six{
-  margin: auto;
-  margin-left: 50px;
+
+#arrowImage
+{
+  position:absolute; left: 1000px;
 }
