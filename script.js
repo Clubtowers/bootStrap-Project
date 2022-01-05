@@ -68,3 +68,7 @@ function clickButton6()
 {
   document.getElementById("box").innerText = "Make sure the portfolio has style! Make it appealing to the eye";
 }
+function clickNext(){
+
+  document.getElementById("remove").remove;
+}
